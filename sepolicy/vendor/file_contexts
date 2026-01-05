@@ -88,6 +88,7 @@
 /odm/lib64/libdualcam_(.*)?\.so                                      u:object_r:same_process_hal_file:s0
 /odm/lib64/libexif-jpeg-aps\.so                                      u:object_r:same_process_hal_file:s0
 /odm/lib64/libextensionlayer\.so                                     u:object_r:same_process_hal_file:s0
+/odm/lib64/libextendfile\.so                                         u:object_r:same_process_hal_file:s0
 /odm/lib64/libhybridraw\.so                                          u:object_r:same_process_hal_file:s0
 /odm/lib64/libhyperlapse\.so                                         u:object_r:same_process_hal_file:s0
 /odm/lib64/libimgClarityEvaluate\.so                                 u:object_r:same_process_hal_file:s0
