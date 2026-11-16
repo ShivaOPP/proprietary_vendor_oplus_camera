@@ -1,1 +1,4 @@
-r_dir_file(vendor_hal_neuralnetworks_default, public_adsprpcd_file)
+# TODO(porsche): calcite has no vendor_hal_neuralnetworks_default domain.
+# Preserve the DSP directory permission through the existing platform HAL
+# server attribute instead of inventing an unlabelled implementation domain.
+r_dir_file(hal_neuralnetworks_server, public_adsprpcd_file)
